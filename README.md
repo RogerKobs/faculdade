@@ -1,25 +1,32 @@
 # faculdade
 Trabalhos da faculdade
 
-Filter - Serve para criar uma cópia de um array.
+<h1>Filter</h1>
+Serve para criar uma cópia de um array.
+</br>
 ex:
 
-let arr = ["Roger", "Gabriel", "Schneider", "Kobs]
-let resultado = arr.filter(valor => arr)
+```
+let arr = ["Roger", "Gabriel", "Schneider", "Kobs];
+let resultado = arr.filter(valor => arr);
 
 resultado // ["Roger", "Gabriel", "Schneider", "Kobs].
-
+```
 
 Também é possível você pegar apenas itens com uma quantidade de caracteres.
 ex:
 
+```
 resultado = arr.filter(valor => arr.length >= 6)
 
 resultado // ["Gabriel", "Schneider"].
+```
 
+</br>
+</br>
 
-
-ForEach - um for que você roda até percorrer todos os itens de um array.
+<h1>ForEach</h1>
+um For que você roda até percorrer todos os itens de um array.
 ex:
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
