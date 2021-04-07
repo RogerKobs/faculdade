@@ -3,7 +3,7 @@ Trabalhos da faculdade
 
 <h1>Filter</h1>
 Serve para criar uma cópia de um array.
-</br>
+
 ex:
 
 ```
@@ -14,6 +14,7 @@ resultado // ["Roger", "Gabriel", "Schneider", "Kobs].
 ```
 
 Também é possível você pegar apenas itens com uma quantidade de caracteres.
+</br>
 ex:
 
 ```
